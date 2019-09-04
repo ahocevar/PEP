@@ -1,6 +1,6 @@
 {
-  "name": "pepjs",
-  "version": "0.5.1",
+  "name": "@openlayers/pepjs",
+  "version": "0.5.2",
   "main": "dist/pep.js",
   "description": "Polyfill of the PointerEvents W3C spec",
   "author": {
