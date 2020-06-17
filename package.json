@@ -1,6 +1,6 @@
 {
   "name": "@openlayers/pepjs",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "main": "dist/pep.js",
   "description": "Polyfill of the PointerEvents W3C spec",
   "author": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jquery/PEP.git"
+    "url": "git://github.com/ahocevar/PEP.git"
   },
   "files": [
     "dist/",
